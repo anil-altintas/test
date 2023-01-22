@@ -1,3 +1,3 @@
-# TEST
+## TEST
 
-Readme eklendi.
+React öğreniyorum.
